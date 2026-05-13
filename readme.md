@@ -150,7 +150,7 @@ A full-stack Central Bank Digital Currency simulation platform built using:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://nikhilesh-portfolio-livid.vercel.app/">
+<a href="https://nikhilesh-portfolio-phi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge"/>
 </a>
 
